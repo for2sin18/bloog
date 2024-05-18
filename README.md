@@ -1,0 +1,2 @@
+# bloog
+for common blog
